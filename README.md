@@ -1,2 +1,21 @@
 # Word-Guess-Game
-# I have tried to do my best on this project but as the time was limited for me to learn and exercise, I could not add duplicated letter prevention code to my game, I will add it later to finalize my game.
+
+### UofT Coding Boot Camp - Assignment 3
+
+From instructor: 
+
+"Overview -
+In this assignment, you'll create one of two possible computer games: Hangman or Psychic. These apps will run in the browser, and feature dynamically updated HTML powered by your JavaScript code."
+
+### Getting Started
+
+Click on the link to play!  
+https://aboozarmojdeh.github.io/Word-Guess-Game/
+
+
+### Built With
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
